@@ -62,6 +62,7 @@ char getGrade(int score) {
     }
 }
 
+
 int main() {
     int score;
 
